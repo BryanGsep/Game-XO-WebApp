@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Game-XO-WebApp/static/css/main.12d202aa.css",
+    "main.js": "/Game-XO-WebApp/static/js/main.4fe2899b.js",
+    "static/js/787.c146f470.chunk.js": "/Game-XO-WebApp/static/js/787.c146f470.chunk.js",
+    "static/media/game-background1.png": "/Game-XO-WebApp/static/media/game-background1.5bdff9ac249f2ebd6d83.png",
+    "index.html": "/Game-XO-WebApp/index.html",
+    "main.12d202aa.css.map": "/Game-XO-WebApp/static/css/main.12d202aa.css.map",
+    "main.4fe2899b.js.map": "/Game-XO-WebApp/static/js/main.4fe2899b.js.map",
+    "787.c146f470.chunk.js.map": "/Game-XO-WebApp/static/js/787.c146f470.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12d202aa.css",
+    "static/js/main.4fe2899b.js"
+  ]
+}
